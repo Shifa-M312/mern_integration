@@ -13,7 +13,7 @@ How to Run
 2. Client: Go to `/client`, run `npm install`, then `npm run dev`.
 
 Project Demo
-[Watch the Video Here](PASTE_YOUR_LINK_HERE)
+[Watch the Video Here](https://drive.google.com/drive/folders/1Ma6Pm4Vv6zz4jC-ibZU_7MFtyrqZdvzP?usp=sharing)
 
 Tech Used
 * MongoDB, Express, React, Node.js
